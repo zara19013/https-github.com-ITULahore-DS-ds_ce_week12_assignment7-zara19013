@@ -1,0 +1,16 @@
+//
+// Created by ITU_UBS on 04/06/2021.
+//
+
+#ifndef TEMPLATE_WEEK9_LAB_TASK_AB_SAMPLEADDITIONALFILES_H
+#define TEMPLATE_WEEK9_LAB_TASK_AB_SAMPLEADDITIONALFILES_H
+
+
+class SampleAdditionalFiles {
+public:
+    void testFunc();
+
+};
+
+
+#endif //TEMPLATE_WEEK9_LAB_TASK_AB_SAMPLEADDITIONALFILES_H
